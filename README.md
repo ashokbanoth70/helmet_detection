@@ -31,12 +31,6 @@ python helmet_video.py
 ## Notes
 * File paths are hardcoded inside the scripts. Change them if needed.
 * The model file (`best.pt`) must be present inside the `weights` folder.
-* Videos and model files are large, so pushing them to GitHub is not recommended.
-
-## Future work
-* Add number plate detection
-* Improve model accuracy
-* Convert into real-time system using webcam
 
 ## Author
 Banoth Ashok - 230285
